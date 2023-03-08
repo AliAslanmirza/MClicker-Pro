@@ -8,3 +8,8 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 ![Screenshot](program.png)
 
 ## Current version: 1.4.9
+
+# Warning!
+Before using the program, you must come to our discord server and create a registration.
+
+Discord Link: 
