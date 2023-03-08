@@ -5,8 +5,8 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 
 # Picture of Program
 
-![Screenshot](program.png)
+![Screenshot](150.png)
 
-## Current version: 1.4.9
+## Current version: 1.5.0
 
 ##### Discord Link: https://discord.gg/f3tBuxWxKJ
