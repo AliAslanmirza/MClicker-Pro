@@ -7,4 +7,6 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 
 ![Screenshot](picture6.png)
 
-### Good Games GG
+# Good Games GG
+
+## The version you downloaded with setup way may be outdated.
