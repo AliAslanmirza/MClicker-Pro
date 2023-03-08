@@ -7,6 +7,4 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 
 ![Screenshot](program.png)
 
-# Good Games GG
-
 ## Current version: 1.4.9
