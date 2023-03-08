@@ -6,3 +6,5 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 # Picture of Program
 
 ![Screenshot](picture6.png)
+
+### Good Games GG
