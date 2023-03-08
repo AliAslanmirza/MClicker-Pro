@@ -12,4 +12,4 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 # Warning!
 Before using the program, you must come to our discord server and create a registration.
 
-Discord Link: 
+Discord Link: https://discord.gg/TCnQP4nHMd
