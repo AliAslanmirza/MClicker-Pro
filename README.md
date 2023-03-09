@@ -5,7 +5,7 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 
 # Picture of Program
 
-![Screenshot](150.png)
+![Screenshot](164.png)
 
 ## Current version: 1.6.4
 
