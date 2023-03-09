@@ -7,6 +7,6 @@ This program is an automatic clicker program whose codes are entirely mine. It d
 
 ![Screenshot](150.png)
 
-## Current version: 1.5.0
+## Current version: 1.6.4
 
 ##### Discord Link: https://discord.gg/f3tBuxWxKJ
